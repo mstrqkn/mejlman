@@ -1,0 +1,4 @@
+mejlman
+=======
+
+Ett massmail-program
